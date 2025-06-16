@@ -1,8 +1,8 @@
 ---
 
-## Programming languages
+## Languages
 
-<div id="programming_languages_icons">
+<div id="languages_icons">
   <div id="hight-level">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width=50 />
   </div>
@@ -14,6 +14,8 @@
   <div id="other">
     <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" alt="SQL" width=50 />
     <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" alt="UML" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width=50 />
   </div>
 </div>
 
