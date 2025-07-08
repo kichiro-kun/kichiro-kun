@@ -17,6 +17,7 @@
     <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" alt="UML" width=50 />
     <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width=50 />
     <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=22203&format=png&color=000000" alt="MarkDown" width=50 />
   </div>
 </div>
 
