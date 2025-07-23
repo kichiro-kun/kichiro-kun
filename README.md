@@ -105,7 +105,7 @@
     <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width=60 />
   </div>
   <div id="Modeling and designing">
-    <img src="https://staruml.io/image/staruml_logo.png" alt="StarUML" width=40 />
+    <img src="https://avatars.githubusercontent.com/u/7642181?s=280&v=4" alt="StarUML" width=40 />
     <img src="https://cdn-images.visual-paradigm.com/home/15.0/vp_logo_header.png" alt="Visual-Paradigm" width=130 />
   </div>
   <div id="Other">
